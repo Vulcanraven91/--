@@ -56,7 +56,7 @@
     "react-spring": "^9.5.4"
   },
   "devDependencies": {
-    "@next/bundle-analyzer": "12.0.7",
+    "@next/bundle-analyzer": "16.1.4",
     "@svgr/webpack": "^6.1.2",
     "cross-env": "^7.0.3",
     "dedent": "^0.7.0",
